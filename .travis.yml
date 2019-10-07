@@ -1,0 +1,8 @@
+language: node_js
+script:
+  - npm test
+  - npm run build
+deploy:
+  provider: surge
+  project: ./dist/
+  domain: bouncing-balls.surge.sh
