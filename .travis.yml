@@ -7,5 +7,5 @@ script:
 deploy:
   provider: surge
   project: ./dist/
-  domain: bouncing-balls.surge.sh
+  domain: bouncy-balls.surge.sh
   skip_cleanup: true
