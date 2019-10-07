@@ -8,3 +8,4 @@ deploy:
   provider: surge
   project: ./dist/
   domain: bouncing-balls.surge.sh
+  skip_cleanup: true
