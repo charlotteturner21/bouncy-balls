@@ -1,4 +1,4 @@
-# Bouncy Balls
+# Bouncy Balls [![Build Status](https://travis-ci.org/steventurner21/bouncy-balls.svg?branch=master)](https://travis-ci.org/steventurner21/bouncy-balls)
 
 Bouncy Balls is a web application, available [here](http://bouncing-balls.surge.sh/). It's written in ES6, transpiled by babel, and packaged by webpack, that creates a ball where you click with a random velocity
 
